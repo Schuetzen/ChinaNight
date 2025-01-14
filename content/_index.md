@@ -92,7 +92,7 @@ sections:
             - "Chinese Dance"
             - "Chinese Songs"
           # Upload image to `assets/media/` and reference the filename here
-          image: lamp.png
+          image: lamp.jpg
           #button:
           #  text: Get Started
           #  url: https://hugoblox.com/templates/
