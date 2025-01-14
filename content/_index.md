@@ -131,7 +131,7 @@ sections:
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://comochinanight.netlify.app/
     design:
       card:
         # Card background color (CSS class)
