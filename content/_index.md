@@ -50,7 +50,7 @@ sections:
         - statistic: "CFC"
           description: |
             Columbia Friends of China 
-            -> Best Friend:)
+            Best Friend:)
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -101,7 +101,7 @@ sections:
           text: Join our large community gala - Unforgetable Night
           feature_icon: bolt
           features:
-            - "One of the most friendly community"
+            - "One of the most friendly community at COMO"
 
           # Upload image to `assets/media/` and reference the filename here
           image: tiger.jpg
