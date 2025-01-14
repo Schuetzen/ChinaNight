@@ -6,15 +6,15 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  #- name: Features
+  #  url: /#features
+  #  weight: 20
+  - name: Description
+    url: /#descriptions
     weight: 20
-  - name: Solutions
-    url: /#solutions
-    weight: 30
   - name: Resources
-    weight: 40
+    weight: 30
     hasChildren: true
   - parent: Resources
-    name: Blog
+    name: Program List
     url: blog/
