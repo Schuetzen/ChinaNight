@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      title: 2025 China Night （2025 哥城春晚）
+      text: 🧱 Feb. 1st, Missouri Theater | Free Tickets  🧱
+      #primary_action:
+      #  text: Get Started
+      #  url: https://hugoblox.com/templates/
+      #  icon: rocket-launch
+      #secondary_action:
+      #  text: Read the docs
+      #  url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Announcing the release of Program Lists"
         link:
           text: "Read more"
           url: "/blog/"
@@ -31,57 +31,56 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
+        color: "red"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: bg_newyear.svg
           filters:
             brightness: 0.5
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "CSSA"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Chinese student Association
+            at MIZZOU
+        - statistic: "MMCA"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Mid-Missouri Chinese Associatation
+        - statistic: "CFC"
           description: |
-            Discord community  
-            for support
+            Columbia Friends of China 
+            Best Friend:)
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
-    content:
-      title: Features
-      text: Build your site with blocks 🧱
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+#  - block: features
+#    id: features
+#    content:
+#      title: Features
+#      text: Build your site with blocks 🧱
+#      items:
+#        - name: Optimized SEO
+#          icon: magnifying-glass
+#          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+#        - name: Fast
+#         icon: bolt
+#          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+#        - name: Easy
+#          icon: sparkles
+#          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+#        - name: No-Code
+#          icon: code-bracket
+#          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+#        - name: Highly Rated
+#          icon: star
+#          description: Rated 5-stars by the community.
+#        - name: Swappable Blocks
+#          icon: rectangle-group
+#          description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -118,18 +117,18 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Tom"
+          role: "student at Mizzou"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "Awesome, Best Gala I have ever seen!"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: Participate US ASAP
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
