@@ -6,6 +6,7 @@ authors:
   - admin
 tags:
   - Dance
+  - Tiger
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
